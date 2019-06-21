@@ -4,6 +4,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert' as JSON;
 import 'dart:async';
 
+
 class Thor extends Avenger {
   // ================= Start Singeton design pattern =================
   static String _name;
